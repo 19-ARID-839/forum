@@ -1,0 +1,17 @@
+.navbar-nav .nav-link {
+    color: black;
+  }
+  
+  .navbar-nav .nav-item.active .nav-link{
+    color: black;
+  }
+  .navbar-toggle {
+    color: black;
+  }
+  
+  @media (min-width: 992px) {
+    .navbar-toggle {
+      display: none;
+    }
+  }
+  
